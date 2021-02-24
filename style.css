@@ -1,0 +1,29 @@
+.coat_of_arms {
+	width: 10%;
+} 
+#title{
+	background-color: #a1cae2;
+}
+.navbar{
+	background-color: #eae3c8
+}
+@font-face{
+	font-family: haikakan;
+	src: url(fonts/ArianGrqiReg.ttf);
+}
+.armenian{
+	font-style: oblique;
+	font-family: haikakan;
+	font-size: 20px;
+	
+}
+#sectitle{
+	background-color: pink;
+}
+footer {
+  text-align: right;
+  padding: 20px;
+ color: black;
+ background-color: #ccf2f4;
+  
+}
